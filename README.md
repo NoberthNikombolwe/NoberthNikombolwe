@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75,5dcaa5&height=200&section=header&text=Nikombolwe%20B.%20Noberth&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Builder%20%7C%20Tanzania&descAlignY=58&descSize=16&descColor=e1f5ee" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2045,1a3a6b&height=200&section=header&text=Nikombolwe%20B.%20Noberth&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Builder%20%7C%20Tanzania&descAlignY=58&descSize=16&descColor=b8cde8" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 [![Twitter](https://img.shields.io/badge/@nikombotech-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nikombotech)
 [![GitHub](https://img.shields.io/badge/NoberthNikombolwe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NoberthNikombolwe)
-[![Location](https://img.shields.io/badge/Dar%20es%20Salaam%2C%20Tanzania-0f6e56?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Dar%20es%20Salaam%2C%20Tanzania-0d2045?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -40,14 +40,16 @@ engineer = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### 🧩 Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)
 
 ### 🗄️ Databases & Cloud
@@ -118,7 +120,7 @@ I build technology with purpose — for communities, institutions, and individua
 Whether you're a developer, founder, or someone with a problem that tech can solve — let's talk.
 
 [![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikombotech)
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoberthNikombolwe?tab=repositories)
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Work-0d2045?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoberthNikombolwe?tab=repositories)
 
 </div>
 
@@ -126,7 +128,7 @@ Whether you're a developer, founder, or someone with a problem that tech can sol
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75,5dcaa5&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2045,1a3a6b&height=100&section=footer" />
 
 *Built with ❤️ from Dar es Salaam, Tanzania*
 
