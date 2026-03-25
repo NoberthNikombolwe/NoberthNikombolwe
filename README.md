@@ -29,7 +29,7 @@ engineer = {
     "org":        "Nikombo Tech",
     "location":   "Dar es Salaam, Tanzania 🇹🇿",
     "focus":      ["Full-Stack Web Dev", "Systems Analysis", "Automation", "Fintech"],
-    "building":   "AI-powered apps, React UIs, & no-code automation pipelines",
+    "building":   "React UIs, automation pipelines & scalable web systems",
     "learning":   ["Django deployment", "Cloud infrastructure", "Crypto & DeFi"],
     "languages":  ["Swahili 🇹🇿", "English 🌍"],
     "fun_fact":   "I believe technology + faith can transform communities."
@@ -61,7 +61,6 @@ engineer = {
 ### ⚙️ Tools & Automation
 ![Make.com](https://img.shields.io/badge/Make.com-7B2D8B?style=flat-square&logo=integromat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 
 ---
@@ -72,7 +71,7 @@ engineer = {
 |---|---|---|
 | [**nikadi-3d**](https://github.com/NoberthNikombolwe/nikadi-3d) | 3D digital card experience | TypeScript |
 | [**academic-transcript**](https://github.com/NoberthNikombolwe/academic-transcript) | Student records & transcript system | JavaScript |
-| [**Wedding Attendance Predictor**](https://github.com/NoberthNikombolwe/Wedding-Attendance-Predictor) | AI/ML attendance forecasting | AI/ML |
+| [**Wedding Attendance Predictor**](https://github.com/NoberthNikombolwe/Wedding-Attendance-Predictor) | Attendance forecasting system | Python |
 | [**Permission Request System**](https://github.com/NoberthNikombolwe/Permission-request-management-system) | Organizational workflow management | Pug |
 | [**NikoSocial**](https://github.com/Nikombo-Tech/nikosocial) | Social platform built with Python | Python/Django |
 
@@ -97,9 +96,9 @@ engineer = {
 
 ## 🌍 What I'm Working On
 
-- 🔨 **React + Claude API** — Building AI-powered CRUD applications with dark editorial UI
+- 🔨 **React + Make.com** — Building CRUD applications with automation pipelines
 - ⚙️ **Make.com Pipelines** — Content repurposing automation & appointment reminder bots
-- 💰 **Fintech Startup** — Exploring crypto + AI + automation for financial inclusion in Tanzania
+- 💰 **Fintech Startup** — Exploring crypto & automation for financial inclusion in Tanzania
 - 🏦 **Systems Analysis** — Deepening expertise in SDLC, verification/validation, and enterprise software
 
 ---
