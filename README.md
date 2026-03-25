@@ -62,6 +62,8 @@ engineer = {
 ![Make.com](https://img.shields.io/badge/Make.com-7B2D8B?style=flat-square&logo=integromat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-0d2045?style=flat-square&logo=data&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
